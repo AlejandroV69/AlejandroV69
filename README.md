@@ -45,7 +45,7 @@ Mi enfoque está en el lado del cliente (Frontend). Estas son algunas de las tec
   <a href="https://linkedin.com/in/[https://www.linkedin.com/in/alejandro-viana-2a4a69309/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/[https://www.instagram.com/viaana_alejandro/]" target="_blank">
+  <a href="https:https://www.instagram.com/viaana_alejandro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </p>
