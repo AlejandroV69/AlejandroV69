@@ -42,7 +42,7 @@ Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrol
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroV69&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroV69&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
