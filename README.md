@@ -37,12 +37,12 @@ Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrol
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AlejandroV69&show_icons=true&theme=react&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlejandroV69&layout=compact&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroV69&show_icons=true&theme=react&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroV69&layout=compact&theme=react&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroV69&theme=react&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=AlejandroV69&theme=react&hide_border=true" height="160"/>
 </p>
 
 ---
