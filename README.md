@@ -5,14 +5,14 @@
   
   <img src="https://media.giphy.com/media/QvB7YjR4n4sP9r9Q9o/giphy.gif" width="100"/>
   <h1>Hola 👋, soy Alejandro Viana</h1>
-  <h3>Estudiante de Ingeniería de Sistemas enfocado en Desarrollo Frontend.</h3>
+  <h3>Estudiante de Ingeniería de Sistemas enfocado en Desarrollo Web Full-Stack.</h3>
 </div>
 
 ---
 
 ### 🚀 Sobre Mí
 
-Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrollo Frontend**. Me encanta construir interfaces de usuario interactivas, accesibles y estéticamente agradables.
+Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrollo Web Full-Stack**. Me encanta construir interfaces de usuario interactivas, accesibles y estéticamente agradables.
 
 - 🎓 Actualmente estoy cursando **Ingeniería de Sistemas**.
 - 🌱 Mi objetivo principal es dominar **React**, **Angular** y las metodologías de **Diseño UX/UI**.
