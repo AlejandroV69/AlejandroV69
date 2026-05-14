@@ -4,22 +4,21 @@
   <br/>
   
   <img src="https://media.giphy.com/media/QvB7YjR4n4sP9r9Q9o/giphy.gif" width="100"/>
-  <h1>Hola 👋, soy Alejandro Viana</h1>
-  <h3>Estudiante de Ingeniería de Sistemas enfocado en Desarrollo Web Full-Stack.</h3>
+  <h1>Hola, soy Alejandro Viana</h1>
+  <h3>Estudiante de Ingeniería de Sistemas (10mo Semestre) | Full-Stack Developer</h3>
 </div>
 
 ---
 
-### 🚀 Sobre Mí
+### Sobre Mí
 
-Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrollo Web Full-Stack**. Me encanta construir interfaces de usuario interactivas, accesibles y estéticamente agradables.
+Soy estudiante de Ingeniería de Sistemas en mi **último semestre** con una gran pasión por el **Desarrollo Web Full-Stack**. Actualmente me desempeño como **Pasante Académico** en Humanitas Administradora de Riesgos.
 
-- 🎓 Actualmente estoy cursando **Ingeniería de Sistemas**.
-- 🌱 Mi objetivo principal es dominar **React**, **Angular** y las metodologías de **Diseño UX/UI**.
-- 💡 Me interesa colaborar en proyectos que busquen **mejorar la experiencia del usuario** en la web.
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript** y cómo empezar en el desarrollo web.
-- 📧 Puedes contactarme en: **yermainviana0508@gmail.com**
-- 💼 Estoy abierto a **pasantías o proyectos de prácticas** en desarrollo web.
+-  Cursando el **10mo semestre** de Ingeniería de Sistemas.
+-  Enfocado en perfeccionar mis habilidades en el desarrollo web.
+-  Me interesa la arquitectura de software y la optimización de procesos.
+-  Contacto: **yermainviana0508@gmail.com**.
+-  Abierto a oportunidades y proyectos desafiantes en desarrollo web.
 
 ---
 
@@ -38,7 +37,12 @@ Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrol
 <h4 align="center">Backend & Databases</h4>
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" title="Supabase"/>
 </p>
 
@@ -46,6 +50,8 @@ Soy estudiante de Ingeniería de Sistemas con una gran pasión por el **Desarrol
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" title="MySQL Workbench"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" width="45" title="DBeaver"/>
 </p>
 
 ---
