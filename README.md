@@ -78,4 +78,7 @@ Soy estudiante de Ingeniería de Sistemas en mi **último semestre** con una gra
   <a href="https://www.instagram.com/viaana_alejandro" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://x.com/viaana_05?s=21" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
